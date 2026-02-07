@@ -1,0 +1,11 @@
+Garmin Workout Skill
+
+This skill uses @garmin/fitsdk which is licensed under the Garmin FIT SDK License Agreement.
+SEE: https://developer.garmin.com/fit/guidelines/
+
+Key license terms:
+- Non-exclusive, royalty-free, non-transferable, non-sublicensable
+- For internal business purposes only
+- Redistribution strictly prohibited
+
+Users must accept the Garmin FIT SDK License Agreement when installing @garmin/fitsdk.

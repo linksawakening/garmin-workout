@@ -1,0 +1,17 @@
+{
+  "name": "garmin-workout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "skill.js",
+  "scripts": {
+    "test": "node test.js",
+    "verify": "node verify.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "type": "module",
+  "dependencies": {
+    "@garmin/fitsdk": "^21.188.0"
+  }
+}
